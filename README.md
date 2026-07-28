@@ -34,7 +34,8 @@ Airbnb activity in Asheville experienced a rapid expansion since 2012, with a sl
 A steady growth was observed since 2021, with a spike in 2023 before dipping in 2024.
 The demand analysis also showed a massive upward trend in months like May, July, and October. 
 
-- Property distribution
+- Property distribution.
+  
 The market is heavily dominated by Entire homes/apartments with 89% of market share, followed by private rooms with 9.9%
 Neighborhoods 28806, 28801. 28803, 28804, and 28805 are the top in both listings and guest reviews make them more competitive in the Asheville Airbnb market.
 Neighborhoods 28732 and 28704 have the highest average price, suggesting potential premium listings.
