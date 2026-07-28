@@ -22,4 +22,5 @@ Two datasets were utilized for this analysis:
     - Merged the listings and reviews datasets to create a unified dataset for analysis.
 # Key Findings
 - Price distribution.
-  http://localhost:8888/files/Distribution%20of%20listings%20price.png?_xsrf=2%7C89d65afb%7Cd8ccb35b52636a206d801e0cc712ccd2%7C1784046924
+  <img width="2538" height="1398" alt="Distribution of listings price" src="https://github.com/user-attachments/assets/60089453-b767-4ae0-854c-9fa89528c531" />
+
