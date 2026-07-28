@@ -30,6 +30,8 @@ This suggests that while most listings are relatively affordable, a smaller numb
   <img width="2538" height="1398" alt="Distribution of listings price" src="https://github.com/user-attachments/assets/60089453-b767-4ae0-854c-9fa89528c531" />
 
 
+
+
  - Growth Trends.
     
 Airbnb activity in Asheville experienced a rapid expansion since 2012, with a slowdown around 2020, probably due to COVID-19.
