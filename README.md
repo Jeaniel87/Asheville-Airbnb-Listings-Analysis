@@ -30,13 +30,15 @@ This suggests that while most listings are relatively affordable, a smaller numb
   <img width="2538" height="1398" alt="Distribution of listings price" src="https://github.com/user-attachments/assets/60089453-b767-4ae0-854c-9fa89528c531" />
 
 
-
-
  - Growth Trends.
     
 Airbnb activity in Asheville experienced a rapid expansion since 2012, with a slowdown around 2020, probably due to COVID-19.
 A steady growth was observed since 2021, with a spike in 2023 before dipping in 2024.
 
 <img width="1747" height="1352" alt="Yearly trends of Airbnd in Ashville" src="https://github.com/user-attachments/assets/d11e41ce-a9ea-4a42-aa48-90263425a7b9" />
+
+The demand analysis also showed a massive upward trend in months like July and October. 
+
+<img width="2584" height="1398" alt="Airbnd Trend by month" src="https://github.com/user-attachments/assets/728e023a-fa9f-420d-9104-a7244bc94182" />
 
 
