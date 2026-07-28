@@ -48,6 +48,8 @@ A dual strategy focused on entire home listing in high-demand neighborhoods such
 targeting areas like 28732 for premium offerings can optimize profitability. Furthermore, with demand peaks in May, July, and October, enables dynamic
 pricing strategies to maximize on high-demand periods overall returns.
 
+# Visualization insights
+
 <img width="2538" height="1398" alt="Distribution of listings price" src="https://github.com/user-attachments/assets/60089453-b767-4ae0-854c-9fa89528c531" />
 <img width="1701" height="1352" alt="Correlation between price and minimum nights" src="https://github.com/user-attachments/assets/a193a252-5ef0-450d-809b-dc3476fc8f2e" />
 <img width="1747" height="1352" alt="Yearly trends of Airbnd in Ashville" src="https://github.com/user-attachments/assets/d11e41ce-a9ea-4a42-aa48-90263425a7b9" />
