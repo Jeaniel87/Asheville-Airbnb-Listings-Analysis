@@ -25,16 +25,15 @@ Two datasets were utilized for this analysis:
 - Price distribution.
 
 The average price ($169) is significantly higher than the median price ($128), indicating a right-skewed distribution. 
-This suggests that while most listings are relatively affordable, a smaller number of high-priced listings, especially for premium listing are pulling the average upward.
+This suggests that while most listings are relatively affordable, a smaller number of high-priced listings, especially for premium listing are pulling the average upward
 
-  
  - Growth Trends.
     
 Airbnb activity in Asheville experienced a rapid expansion since 2012, with a slowdown around 2020, probably due to COVID-19.
 A steady growth was observed since 2021, with a spike in 2023 before dipping in 2024.
 The demand analysis also showed a massive upward trend in months like May, July, and October. 
 
-
+- Property distribution
 
 <img width="2538" height="1398" alt="Distribution of listings price" src="https://github.com/user-attachments/assets/60089453-b767-4ae0-854c-9fa89528c531" />
 <img width="1747" height="1352" alt="Yearly trends of Airbnd in Ashville" src="https://github.com/user-attachments/assets/d11e41ce-a9ea-4a42-aa48-90263425a7b9" />
