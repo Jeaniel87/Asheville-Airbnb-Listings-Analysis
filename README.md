@@ -11,12 +11,12 @@ The goal of this project is to evaluate pricing, demand, and host activity trend
 - matplotlib and seaborn for visualization
 # Methodology
 1. Datasets
-   - Two datasets used for this analysis: the listings dataset contains information about each property:
-     (id, name, host_id, host_name, neighbourhood, room_type, price,minimum_nights, availability_365,number_of_reviews,reviews_per_month, last_review etc..) and reviews dataset with:
-     (listing_id, date)
+Two datasets were utilized for this analysis:
+Listings dataset: Contains detailed information about each property, including id, name, host_id, host_name, neighbourhood, room type, price, and other relevant attributes.
+Reviews dataset: Includes listing_id and review date.
  2. Data cleaning
-    - Dropped irrelevant columns
-    - Dropped duplicate rows, especially in the reviews dataset. 714 duplicate rows were deleted.
-    - Handled missing values in the listings dataset: reviews_per_month and Price missing values were replaced with their median values.
-    - Identified outliers and used the capping method to replace them with the 1st and 99th percentile
-    - Merged the listings and reviews datasets.
+    - Removed irrelevant columns to improve data quality
+    - Identified and eliminated duplicate records, particularly in the reviews dataset, where 714 duplicate rows were removed.
+    - Handled missing values in the listings dataset.Replaced missing values in reviews_per_month and price using the median, ensuring robustness against outliers.
+    - Detected outliers and applied the capping (winsorization) technique, limiting values to the 1st and 99th percentiles to minimize their impact.
+    - Merged the listings and reviews datasets to create a unified dataset for analysis.
